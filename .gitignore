@@ -1,0 +1,9 @@
+# Ambiente virtual
+.lhcd/
+
+# Arquivos de cache Python
+__pycache__/
+*.pyc
+
+# IDEs e editores (como VSCode)
+.vscode/
